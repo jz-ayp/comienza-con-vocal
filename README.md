@@ -1,6 +1,6 @@
 # Estructuras de decisión
 
-## Ejercicio: Letra A
+## Ejercicio: Comienza con vocal
 
 ## Objetivos
 - Formular una solución efectiva a un problema que incorpora `<recursion>, <user-defined functions>, <iteration>, <conditionals>`.
@@ -19,20 +19,20 @@
     - [diagrams.net](https://app.diagrams.net/) es una herramienta gratuita y fácil de usar con la que puedes crear diagramas de flujo. 
     - Puedes ver un ejemplo de como subir diagramas de flujo a GitHub [aquí](https://youtu.be/oy5nhA7QpNI).
 
-- **Diseña un programa para determinar si una palabra dada comienza con la letra "A"**. Toma en cuenta que puede estar en mayúscula o minúscula, con o sin acento, etc.
+- **Diseña un programa para determinar si una palabra o frase comienza con una vocal**. Toma en cuenta que las vocales no por estar en mayúscula o tener acento dejan de ser vocales.
 
 - Codifica tu solución en el archivo [`main.py`](/main.py).
    
 - Utiliza los siguientes ejemplos para dar formato a tus entradas y salidas:
   ```
   Escribe una palabra: Ana
-  'Ana' comienza con 'A'
+  'Ana' comienza con vocal
   
   Escribe una palabra: árbol
-  'árbol' comienza con 'A'
+  'árbol' comienza con vocal
   
   Escribe una palabra: Berenjena
-  'Berenjena' no comienza con 'A'
+  'Berenjena' no comienza con vocal
   ```
   
 - Prueba tu programa corriéndolo varias veces con diferentes entradas. Verifica que tu algoritmo produzca las salidas correctas. Pon atención especial a los casos que pudieran ser problemáticos de manejar (casos límite).
@@ -61,9 +61,9 @@
 ## Casos de prueba de ejemplo
 | Entradas | Salidas |
 |:---------|:--------|
-| `Ana` | `'Ana' comienza con 'A'` |
-| `árbol` | `'árbol' comienza con 'A'` |
-| `Berenjena`  | `'Berenjena' no comienza con 'A'` |
+| `Ana` | `'Ana' comienza con vocal` |
+| `árbol` | `'árbol' comienza con vocal` |
+| `Berenjena`  | `'Berenjena' no comienza con vocal` |
 
 ## Rúbrica
 - Presentación: 20%
