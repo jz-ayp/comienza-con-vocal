@@ -8,7 +8,7 @@
       "output": "'Ana' comienza con vocal",
       "comparison": "included",
       "timeout": 1,
-      "points": null
+      "points": 1
     },
     {
       "name": "Test2",
@@ -18,7 +18,7 @@
       "output": "'árbol' comienza con vocal",
       "comparison": "included",
       "timeout": 1,
-      "points": null
+      "points": 1
     },
     {
       "name": "Test3",
@@ -28,7 +28,7 @@
       "output": "'Berenjena' no comienza con vocal",
       "comparison": "included",
       "timeout": 1,
-      "points": null
+      "points": 1
     },
     {
       "name": "Test4",
@@ -38,7 +38,7 @@
       "output": "'Árbol' comienza con vocal",
       "comparison": "included",
       "timeout": 1,
-      "points": null
+      "points": 1
     },
     {
       "name": "Test5",
@@ -48,7 +48,7 @@
       "output": "'androide' comienza con vocal",
       "comparison": "included",
       "timeout": 1,
-      "points": null
+      "points": 1
     },
     {
       "name": "Test7",
@@ -58,7 +58,7 @@
       "output": "'123' no comienza con vocal",
       "comparison": "included",
       "timeout": 1,
-      "points": null
+      "points": 1
     },
     {
       "name": "Test8",
@@ -68,7 +68,7 @@
       "output": "'Enrique' comienza con vocal",
       "comparison": "included",
       "timeout": 1,
-      "points": null
+      "points": 1
     },
     {
       "name": "Test9",
@@ -78,7 +78,7 @@
       "output": "'enriquecer' comienza con vocal",
       "comparison": "included",
       "timeout": 1,
-      "points": null
+      "points": 1
     },
     {
       "name": "Test10",
@@ -88,7 +88,7 @@
       "output": "'épico' comienza con vocal",
       "comparison": "included",
       "timeout": 1,
-      "points": null
+      "points": 1
     },
     {
       "name": "Test11",
@@ -98,7 +98,7 @@
       "output": "Épico' comienza con vocal",
       "comparison": "included",
       "timeout": 1,
-      "points": null
+      "points": 1
     },
     {
       "name": "Test12",
@@ -108,7 +108,7 @@
       "output": "'Ismael' comienza con vocal",
       "comparison": "included",
       "timeout": 1,
-      "points": null
+      "points": 1
     },
     {
       "name": "Test13",
@@ -118,7 +118,7 @@
       "output": "'isla' comienza con vocal",
       "comparison": "included",
       "timeout": 1,
-      "points": null
+      "points": 1
     },
     {
       "name": "Test14",
@@ -128,7 +128,7 @@
       "output": "'Íñigo' comienza con vocal",
       "comparison": "included",
       "timeout": 1,
-      "points": null
+      "points": 1
     },
     {
       "name": "Test15",
@@ -138,7 +138,7 @@
       "output": "índice' comienza con vocal",
       "comparison": "included",
       "timeout": 1,
-      "points": null
+      "points": 1
     },
     {
       "name": "Test16",
@@ -148,7 +148,7 @@
       "output": "'Omar' comienza con vocal",
       "comparison": "included",
       "timeout": 1,
-      "points": null
+      "points": 1
     },
     {
       "name": "Test17",
@@ -158,7 +158,7 @@
       "output": "'Óscar' comienza con vocal",
       "comparison": "included",
       "timeout": 1,
-      "points": null
+      "points": 1
     },
     {
       "name": "Test18",
@@ -168,7 +168,7 @@
       "output": "'onda' comienza con vocal",
       "comparison": "included",
       "timeout": 1,
-      "points": null
+      "points": 1
     },
     {
       "name": "Test19",
@@ -178,7 +178,7 @@
       "output": "órale' comienza con vocal",
       "comparison": "included",
       "timeout": 1,
-      "points": null
+      "points": 1
     },
     {
       "name": "Test20",
@@ -188,7 +188,7 @@
       "output": "'Uganda' comienza con vocal",
       "comparison": "included",
       "timeout": 1,
-      "points": null
+      "points": 1
     },
     {
       "name": "Test21",
@@ -198,7 +198,7 @@
       "output": "'Úrsula' comienza con vocal",
       "comparison": "included",
       "timeout": 1,
-      "points": null
+      "points": 1
     },
     {
       "name": "Test22",
@@ -208,7 +208,7 @@
       "output": "'uno' comienza con vocal",
       "comparison": "included",
       "timeout": 1,
-      "points": null
+      "points": 1
     },
     {
       "name": "Test23",
@@ -218,7 +218,7 @@
       "output": "único' comienza con vocal",
       "comparison": "included",
       "timeout": 1,
-      "points": null
+      "points": 1
     },
     {
       "name": "Test24",
@@ -228,7 +228,7 @@
       "output": "'ünexistente' comienza con vocal",
       "comparison": "included",
       "timeout": 1,
-      "points": null
+      "points": 1
     },
     {
       "name": "Test25",
@@ -238,7 +238,7 @@
       "output": "Ü3' comienza con vocal",
       "comparison": "included",
       "timeout": 1,
-      "points": null
+      "points": 1
     }
   ]
 }
