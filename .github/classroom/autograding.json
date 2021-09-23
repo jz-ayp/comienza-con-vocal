@@ -95,7 +95,7 @@
       "setup": "",
       "run": "LANG=en_US.utf8 timeout 3m python3 main.py",
       "input": "Épico",
-      "output": "Épico' comienza con vocal",
+      "output": "'Épico' comienza con vocal",
       "comparison": "included",
       "timeout": 1,
       "points": 1
@@ -135,7 +135,7 @@
       "setup": "",
       "run": "LANG=en_US.utf8 timeout 3m python3 main.py",
       "input": "índice",
-      "output": "índice' comienza con vocal",
+      "output": "'índice' comienza con vocal",
       "comparison": "included",
       "timeout": 1,
       "points": 1
@@ -175,7 +175,7 @@
       "setup": "",
       "run": "LANG=en_US.utf8 timeout 3m python3 main.py",
       "input": "órale",
-      "output": "órale' comienza con vocal",
+      "output": "'órale' comienza con vocal",
       "comparison": "included",
       "timeout": 1,
       "points": 1
@@ -215,7 +215,7 @@
       "setup": "",
       "run": "LANG=en_US.utf8 timeout 3m python3 main.py",
       "input": "único",
-      "output": "único' comienza con vocal",
+      "output": "'único' comienza con vocal",
       "comparison": "included",
       "timeout": 1,
       "points": 1
@@ -235,7 +235,7 @@
       "setup": "",
       "run": "LANG=en_US.utf8 timeout 3m python3 main.py",
       "input": "Ü3",
-      "output": "Ü3' comienza con vocal",
+      "output": "'Ü3' comienza con vocal",
       "comparison": "included",
       "timeout": 1,
       "points": 1
