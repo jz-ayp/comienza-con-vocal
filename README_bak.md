@@ -2,12 +2,25 @@
 
 ## Ejercicio: Comienza con vocal
 
+## Objetivos
+- Formular una solución efectiva a un problema que incorpora estructuras de decisión y manipulación de texto.
+- Interpretar adecuadamente los requisitos de solución de un problema a partir de su descripcion en lenguaje natural.
+- Generar, a partir del análisis del problema:
+    - La identificación correcta de las entradas y salidas requeridas, y
+    - Una explicación, a grandes rasgos, del proceso de solución.
+- Elaborar un diagrama de flujo que muestre la lógica del algoritmo.
+- Codificar el algoritmo en un programa correcto de Python.
+- Identificar y ejecutar los casos de prueba pertinentes y suficientes para verificar la funcionalidad de la solución propuesta.
+
 ## Instrucciones
 - Elabora el análisis y el algoritmo ***antes de escribir el código***. Utiliza un diagrama de flujo para representar tu algoritmo e ilustrar su lógica.
+    - [diagrams.net](https://app.diagrams.net/) es una herramienta gratuita y fácil de usar con la que puedes crear diagramas de flujo. 
+    - Con la extensión Draw<span>.</span>io Integration de Henning Dietrichs puedes utilizar diagrams.net directamente desde VS Code. Si creas tu archivo con la extensión `.drawio.png`, tu diagrama quedará automáticamente en formato png pero será un archivo editable.
+    - Si decides utilizar directamente el sitio [diagrams.net](https://app.diagrams.net/), puedes ver un ejemplo de cómo subir los diagramas de flujo a GitHub [aquí](https://youtu.be/oy5nhA7QpNI).
 
 - **Diseña un programa para determinar si una palabra o frase comienza con una vocal**. Toma en cuenta que las vocales no por estar en mayúscula o tener acento dejan de ser vocales.
 
-- Codifica tu solución en el archivo [`comienza_con_vocal.py`](/comienza_con_vocal.py).
+- Codifica tu solución en el archivo [`main.py`](/main.py).
    
 - Utiliza los siguientes ejemplos para dar formato a tus entradas y salidas:
   ```
